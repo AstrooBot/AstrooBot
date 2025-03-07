@@ -1,7 +1,8 @@
 <h1 align="center">Hello world 👋, Here Astroobot! 🤖</h1>
 
-<h2 align="center">Landing from <b>Bogota, Colombia</b> <img width="24" height="24" src="https://img.icons8.com/fluency/48/colombia-circular.png"/> <br>
- ☄️🌠After eons drifting through the Milky Way, Astroobot has finally landed on Earth. Speaking the only language he has in common with humans ☄️🌠: <br> <strong>CODE!</strong> </h2>
+<h2 align="center">Landing from <b>Bogota, Colombia</b> <img width="24" height="24" src="https://img.icons8.com/fluency/48/colombia-circular.png"/></h2>
+<h3 align="left">☄️🌠After eons drifting through the Milky Way, Astroobot has finally landed on Earth. Speaking the only language he has in common with humans ☄️🌠: <strong>CODE!</strong></h3>
+  
  
 <p align="center">
   <img src="Astroobot_face2.png"  height="200" alt="[Astroobot" />
@@ -10,7 +11,7 @@
   <img src="AstrooBot_name.png"  height="150" widht="300" alt="Astroobot name" />
 </p>
 
-<h3 align="left">Coding with : </h3>
+<h3 align="center">Coding with : </h3>
 <p align="center">
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
