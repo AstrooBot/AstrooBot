@@ -5,10 +5,10 @@
   
  
 <p align="center">
-  <img src="Astroobot_face2.png"  height="200" alt="[Astroobot" />
+  <img src="Astroobot_face2.png"  height="150" alt="[Astroobot" />
 </p>
 <p align="center">
-  <img src="AstrooBot_name.png"  height="150" widht="300" alt="Astroobot name" />
+  <img src="AstrooBot_name.png"  height="100" widht="300" alt="Astroobot name" />
 </p>
 
 <h3 align="center">Coding with : </h3>
