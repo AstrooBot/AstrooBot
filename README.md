@@ -1,7 +1,7 @@
 <h2 align="center">Hello world 👋, Here Astroobot! 🤖</h2>
 
 <h3 align="center">Landing from <b>Bogota, Colombia</b> <img width="24" height="24" src="https://img.icons8.com/fluency/48/colombia-circular.png"/></h3>
-<h3 align="center">☄️🌠After eons drifting through the Milky Way, Astroobot has finally landed on Earth. Speaking the only language he has in common with humans ☄️🌠: <br><strong>CODE!</strong></h3>
+<h3 align="center">☄️🌠After eons drifting through the Milky Way, Astroobot has finally landed on Earth. Speaking the only language it has in common with humans ☄️🌠: <br><strong>CODE!</strong></h3>
 
 
 <img src="Astroobot_face2.png" align="left" height="200" alt="[Astroobot" />
