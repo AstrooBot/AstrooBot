@@ -6,6 +6,9 @@
 <p align="center">
   <img src="Astroobot_face2.png" height="200" alt="[Astroobot" />
 </p>
+<p align="center">
+  <img src="AstrooBot_name.png" height="200" widht="300" alt="Astroobot name" />
+</p>
 
 <h3 align="left">Coding with : </h3>
 <p align="center">
@@ -25,9 +28,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=astroobot&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=synthwave&hide_border=false" height="150" alt="languages graph"  />
 </p>
 
-<p align="center">
-  <img src="AstrooBot_name.png" height="300" widht="600" alt="Astroobot name" />
-</p>
+
 
 
 <!-- Table sample to put future projects 
