@@ -2,9 +2,10 @@
 
 <h2 align="center">Landing from <b>Bogota, Colombia</b> <img width="24" height="24" src="https://img.icons8.com/fluency/48/colombia-circular.png"/> <br>
  ☄️🌠After eons drifting through the Milky Way, Astroobot has finally landed on Earth. Speaking the only language he has in common with humans ☄️🌠: <br> <strong>CODE!</strong> </h2>
-
-<h2 align="center">Let's Connect:</h2>
-
+ 
+<p align="center">
+  <img src="Astroobot_face2.png" height="200" alt="[Astroobot" />
+</p>
 
 <h3 align="left">Coding with : </h3>
 <p align="center">
