@@ -1,13 +1,10 @@
-<h1 align="center">Hello world 👋, Here Astroobot! 🤖</h1>
+<h2 align="center">Hello world 👋, Here Astroobot! 🤖</h2>
 
-<h2 align="center">Landing from <b>Bogota, Colombia</b> <img width="24" height="24" src="https://img.icons8.com/fluency/48/colombia-circular.png"/></h2>
+<h3 align="center">Landing from <b>Bogota, Colombia</b> <img width="24" height="24" src="https://img.icons8.com/fluency/48/colombia-circular.png"/></h3>
 <h3 align="center">☄️🌠After eons drifting through the Milky Way, Astroobot has finally landed on Earth. Speaking the only language he has in common with humans ☄️🌠: <br><strong>CODE!</strong></h3>
-  
- 
-<p align="center">
-  <img src="Astroobot_face2.png"  height="200" alt="[Astroobot" />
-</p>
 
+
+<img src="Astroobot_face2.png" align="left" height="200" alt="[Astroobot" />
 <h3 align="center">Coding with : </h3>
 <p align="center">
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
@@ -22,11 +19,13 @@
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
 </p>
+	
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=astroobot&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=synthwave&hide_border=false" height="150" alt="languages graph"  />
 </p>
-
-
+<p align="center">
+<img src="AstrooBot_name.png" align="center" height="150"  alt="Astroobot Name" />	
+</p>
 
 
 <!-- Table sample to put future projects 
