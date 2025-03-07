@@ -4,10 +4,10 @@
  ☄️🌠After eons drifting through the Milky Way, Astroobot has finally landed on Earth. Speaking the only language he has in common with humans ☄️🌠: <br> <strong>CODE!</strong> </h2>
  
 <p align="center">
-  <img src="Astroobot_face2.png" height="200" alt="[Astroobot" />
+  <img src="Astroobot_face2.png"  height="200" alt="[Astroobot" />
 </p>
 <p align="center">
-  <img src="AstrooBot_name.png" height="200" widht="300" alt="Astroobot name" />
+  <img src="AstrooBot_name.png"  height="150" widht="300" alt="Astroobot name" />
 </p>
 
 <h3 align="left">Coding with : </h3>
